@@ -1,0 +1,17 @@
+{
+    "name": "uploader1test",
+    "version": "0.1.0",
+    "description": ".",
+    "repository": "https://github.com/rickkas7",
+    "private": true,
+    "scripts": {
+        "start": "node server.js"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.14.0"
+    },
+    "engines": {
+        "node": ">=4.3.2"
+    }
+}
